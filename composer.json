@@ -1,0 +1,27 @@
+{
+    "name": "mpietrucha/exception",
+    "description": "The exception package.",
+    "license": "MIT",
+    "type": "liblary",
+    "authors": [
+        {
+            "name": "Michał Pietrucha",
+            "email": "michal.pietrucha@off-site.pl"
+        }
+    ],
+    "require": {
+        "php": "^8.2"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^6.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mpietrucha\\Support\\Exception\\": "src"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev"
+}
