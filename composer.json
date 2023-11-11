@@ -12,6 +12,7 @@
     "require": {
         "php": "^8.2",
         "mpietrucha/disclosure": "dev-main",
+        "mpietrucha/facade": "dev-main",
         "mpietrucha/utility": "dev-main"
     },
     "require-dev": {
