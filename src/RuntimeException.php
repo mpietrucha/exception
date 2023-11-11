@@ -1,8 +1,8 @@
 <?php
 
-namespace Mpietrucha\Exception;
+namespace Mpietrucha\Support\Exception;
 
-use Mpietrucha\Exception\Concerns\Exceptionable;
+use Mpietrucha\Support\Exception\Concerns\Exceptionable;
 
 class RuntimeException extends \RuntimeException
 {

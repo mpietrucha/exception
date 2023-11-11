@@ -1,6 +1,6 @@
 <?php
 
-namespace Mpietrucha\Exception\Concerns;
+namespace Mpietrucha\Support\Exception\Concerns;
 
 use Closure;
 use Mpietrucha\Support\Concerns\Factoryable;

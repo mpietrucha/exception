@@ -1,6 +1,6 @@
 <?php
 
-namespace Mpietrucha\Exception;
+namespace Mpietrucha\Support\Exception;
 
 class ThisShouldNotHappenException extends RuntimeException
 {
