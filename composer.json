@@ -11,9 +11,9 @@
     ],
     "require": {
         "php": "^8.2",
-        "mpietrucha/disclosure": "^0.1.1",
-        "mpietrucha/facade": "^0.1.1",
-        "mpietrucha/utility": "^0.1.1"
+        "mpietrucha/disclosure": "dev-main",
+        "mpietrucha/facade": "dev-main",
+        "mpietrucha/utility": "dev-main"
     },
     "require-dev": {
         "symfony/var-dumper": "^6.2"
