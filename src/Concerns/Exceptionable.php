@@ -5,7 +5,9 @@ namespace Mpietrucha\Support\Exception\Concerns;
 use Closure;
 use Mpietrucha\Support\Concerns\Factoryable;
 
-use function Mpietrucha\Support\Disclosure\{disclosure, not};
+use function Mpietrucha\Support\Disclosure\disclosure;
+use function Mpietrucha\Support\Disclosure\not;
+use function Mpietrucha\Support\Disclosure\value;
 
 trait Exceptionable
 {

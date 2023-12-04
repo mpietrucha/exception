@@ -10,12 +10,12 @@
         }
     ],
     "require": {
-        "php": "^8.2",
+        "php": "^8.3",
         "mpietrucha/disclosure": "dev-main",
-        "mpietrucha/facade": "dev-main",
         "mpietrucha/utility": "dev-main"
     },
     "require-dev": {
+        "laravel/pint": "^1.13",
         "symfony/var-dumper": "^6.2"
     },
     "autoload": {
